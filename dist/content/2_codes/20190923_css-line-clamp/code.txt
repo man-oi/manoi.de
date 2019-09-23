@@ -1,0 +1,33 @@
+Title: CSS line-clamp
+
+----
+
+Text:
+
+#OK
+line-clamp...
+
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="result" data-user="manoi" data-slug-hash="LwGbXa" data-preview="true" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="CSS line-clamp">
+  <span>See the Pen <a href="https://codepen.io/manoi/pen/LwGbXa">
+  CSS line-clamp</a> by manoi (<a href="https://codepen.io/manoi">@manoi</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+----
+
+Embedcode: 
+
+----
+
+Date: 2019-09-23 22:20
+
+----
+
+Author:
+
+- hello@manuelbartels.de
+
+----
+
+Tags: css

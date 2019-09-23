@@ -22,5 +22,6 @@
     <?php endif ?>
   </footer>
 
+  <?php echo js(['assets/js/prism.min.js']); ?>
 </body>
 </html>

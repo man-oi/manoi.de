@@ -20,7 +20,11 @@
     </header>
 
     <div class="note-text text">
-      <?= $page->text()->kt() ?>
+      <?php echo $page->text()->kt() ?>
+    </div>
+
+    <div class="note-code">
+      <?php echo $page->embedcode()->kt() ?>
     </div>
 
     <?php if ($page->tags()->isNotEmpty()) : ?>
